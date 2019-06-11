@@ -1,0 +1,7 @@
+*.vo
+*.aux
+*.v~
+*.glob
+LF/*
+*.pdf
+
